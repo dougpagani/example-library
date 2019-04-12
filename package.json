@@ -1,0 +1,22 @@
+{
+  "name": "@dougpagani/example-library",
+  "version": "0.0.0",
+  "description": "Stub library for testing deprecation issues",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougpagani/npm-example-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougpagani/npm-example-library/issues"
+  },
+  "homepage": "https://github.com/dougpagani/npm-example-library#readme"
+}
