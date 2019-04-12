@@ -1,6 +1,6 @@
 {
   "name": "@dougpagani/example-library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Stub library for testing deprecation issues",
   "main": "index.js",
   "directories": {
