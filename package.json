@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "postinstall": "echo 'rmrfing.... Please wait' &>/dev/null"
   },
   "repository": {
     "type": "git",
